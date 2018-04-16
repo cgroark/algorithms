@@ -1,0 +1,9 @@
+Big O Notation tells you how fast an algorithm will take to run 
+//and helps understand how much more time it will take as the list of search elements increases
+//important to understand how running time increases as size of list increases
+
+HELPS YOU COMPARE THE NUMBER OF OPERATIONS
+
+you measure algorithms in the growth of the number of operations 
+
+the n in O(n) stands for the number of operations 
